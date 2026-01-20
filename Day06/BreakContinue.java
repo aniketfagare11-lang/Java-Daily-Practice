@@ -16,14 +16,14 @@ public class BreakContinue {
 
         }*/
 
-        for (int a=1;a<=5;a++)
+        for (int b=1;b<=5;b++)
         {
-             if(a==2)
+             if( b==2)
             {
                 System.out.println("Exit The Loop");
                 continue; // After Condition True Skips part Here..
             }
-             System.out.println(a);
+             System.out.println(b);
             System.out.println("Java is Great.");
 
         }
