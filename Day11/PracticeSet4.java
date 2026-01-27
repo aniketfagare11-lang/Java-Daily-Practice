@@ -61,7 +61,7 @@ public class PracticeSet4
          System.out.println("Tax on your given Income is : " + tax);
        }
 
-       // Question 4:Find out the  days of week...
+       // Question 4:Find out the  days of week... using Switch case statments 
        System.out.println("Enter a Number between(1-7) to print day:");
        int day =sc.nextInt();
        switch (day)
